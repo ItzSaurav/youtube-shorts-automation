@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+token.json
+client_secrets.json
+*.log
+data/stock_media/
+data/audio/*.mp3
+data/video/*.mp4
+output/ready_for_upload/*.mp4
+.venv/
+.claude/
+*.egg-info/
+dist/
+build/
+logs/

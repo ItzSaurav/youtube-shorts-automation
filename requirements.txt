@@ -1,0 +1,21 @@
+# Core orchestration
+langgraph
+python-dotenv
+
+# HTTP / API
+requests
+httpx
+
+# AI Voiceover (free, no API key)
+edge-tts
+
+# Video editing & compositing
+moviepy
+
+# Image processing (thumbnails)
+Pillow
+
+# YouTube API (for future auto-upload)
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2

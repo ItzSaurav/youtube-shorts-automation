@@ -1,0 +1,27 @@
+# YouTube Automation Project Settings
+
+# General
+project_name: "Automated YouTube Channel"
+author: "Claude Code"
+
+# API Keys and Credentials (use environment variables for sensitive data)
+# Refer to .env and src/utils/api_clients.py for how these are handled
+youtube_api_key: "" # Service account or OAuth client ID if needed
+google_trends_api_key: "" # If using a specific key for scraping
+
+# LLM Configuration (Routed via Local OmniRoute Gateway - 100% Free!)
+llm_provider: "omniroute"
+llm_model: "openrouter/auto"
+llm_api_base: "http://localhost:20128/v1"
+
+# TTS Configuration
+tts_provider: "google_cloud_tts" # Options: google_cloud_tts, piper_tts
+tts_model: "en-US-Wavenet-F" # Example for Google Cloud TTS, adjust based on choice
+
+# Video Generation Configuration
+stock_media_api: "pexels" # Options: pexels, pixabay
+ffmpeg_path: "ffmpeg" # Uses Windows PATH
+
+# Workflow Configuration
+max_retries: 3
+delay_between_api_calls_seconds: 5

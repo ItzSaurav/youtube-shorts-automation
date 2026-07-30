@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,75,&H0000FFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,4,5,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:00.97,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}Stop what you
+Dialogue: 0,0:00:00.97,0:00:01.98,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}are doing right
+Dialogue: 0,0:00:01.98,0:00:02.25,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}now.
+Dialogue: 0,0:00:02.20,0:00:03.16,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}Ninety five percent
+Dialogue: 0,0:00:03.16,0:00:03.97,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}of people ignore
+Dialogue: 0,0:00:03.97,0:00:04.78,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}these daily body
+Dialogue: 0,0:00:04.78,0:00:05.59,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}signals until it
+Dialogue: 0,0:00:05.59,0:00:06.19,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}is too late.
+Dialogue: 0,0:00:06.19,0:00:06.83,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}Here are three
+Dialogue: 0,0:00:06.83,0:00:07.74,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}science backed facts
+Dialogue: 0,0:00:07.74,0:00:08.51,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}about why walking
+Dialogue: 0,0:00:08.51,0:00:09.24,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}30 minutes daily
+Dialogue: 0,0:00:09.24,0:00:10.28,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}changes everything that
+Dialogue: 0,0:00:10.28,0:00:10.97,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}will change how
+Dialogue: 0,0:00:10.97,0:00:11.38,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}you live.
+Dialogue: 0,0:00:11.38,0:00:12.63,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}Fact number
+Dialogue: 0,0:00:12.63,0:00:13.09,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}one.
+Dialogue: 0,0:00:13.09,0:00:14.90,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}Consistency beats intensity
+Dialogue: 0,0:00:14.90,0:00:16.10,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}every single time.
+Dialogue: 0,0:00:16.10,0:00:17.16,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}Small daily habits
+Dialogue: 0,0:00:17.16,0:00:18.34,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}compound faster than
+Dialogue: 0,0:00:18.34,0:00:19.81,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}massive willpower bursts.
+Dialogue: 0,0:00:19.81,0:00:21.07,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}Fact number
+Dialogue: 0,0:00:21.07,0:00:21.53,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}two.
+Dialogue: 0,0:00:21.53,0:00:22.39,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}Your body signals
+Dialogue: 0,0:00:22.39,0:00:23.49,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}nutrient and hydration
+Dialogue: 0,0:00:23.49,0:00:24.80,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}deficits through afternoon
+Dialogue: 0,0:00:24.80,0:00:25.55,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}brain fog hours
+Dialogue: 0,0:00:25.55,0:00:26.30,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}before you feel
+Dialogue: 0,0:00:26.30,0:00:26.71,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}thirsty.
+Dialogue: 0,0:00:26.71,0:00:27.85,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}Fact number
+Dialogue: 0,0:00:27.85,0:00:28.48,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}three.
+Dialogue: 0,0:00:28.48,0:00:29.61,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}Adjusting your morning
+Dialogue: 0,0:00:29.61,0:00:30.38,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}routine by just
+Dialogue: 0,0:00:30.38,0:00:31.51,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}fifteen minutes resets
+Dialogue: 0,0:00:31.51,0:00:32.58,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}your biological clock
+Dialogue: 0,0:00:32.58,0:00:33.45,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}and doubles daily
+Dialogue: 0,0:00:33.45,0:00:33.77,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}focus.
+Dialogue: 0,0:00:33.77,0:00:34.32,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}If you love
+Dialogue: 0,0:00:34.32,0:00:35.32,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}learning daily brain
+Dialogue: 0,0:00:35.32,0:00:36.07,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}and body facts,
+Dialogue: 0,0:00:36.07,0:00:36.82,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}smash that like
+Dialogue: 0,0:00:36.82,0:00:37.83,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}button and subscribe
+Dialogue: 0,0:00:37.83,0:00:38.53,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}for new videos
+Dialogue: 0,0:00:38.53,0:00:39.03,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}every day!
+Dialogue: 0,0:00:39.03,0:00:40.18,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FFFF}Thanks for watching,
+Dialogue: 0,0:00:40.18,0:00:40.75,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H00FFFFFF}and I will
+Dialogue: 0,0:00:40.75,0:00:41.73,Default,,0,0,0,,{\fscx88\fscy88\t(0,70,\fscx104\fscy104)\t(70,140,\fscx100\fscy100)\c&H0000FF00}see you tomorrow!
